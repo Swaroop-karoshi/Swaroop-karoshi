@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swaroop Karoshi</h1>
 <h3 align="center">A passionate AI/ML Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroop-karoshi&label=Profile%20views&color=0e75b6&style=plastic" alt="swaroop-karoshi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroop-karoshi&label=Profile%20views&color=0e75b6&style=flat" alt="swaroop-karoshi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaroop-karoshi" alt="swaroop-karoshi" /></a> </p>
 
@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swaroop-karoshi&show_icons=true&theme=onedark&locale=en" alt="swaroop-karoshi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swaroop-karoshi&" alt="swaroop-karoshi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swaroop-karoshi&theme=dark" alt="swaroop-karoshi" /></p>
