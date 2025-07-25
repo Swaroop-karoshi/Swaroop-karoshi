@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroop-karoshi&label=Profile%20views&color=0e75b6&style=flat" alt="swaroop-karoshi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaroop-karoshi" alt="swaroop-karoshi" /></a> </p>
+<p align="left"> <a href="https://github.com/Swaroop-karoshi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaroop-karoshi" alt="swaroop-karoshi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/swaroop_1817" target="blank"><img src="https://img.shields.io/twitter/follow/swaroop_1817?logo=twitter&style=for-the-badge" alt="swaroop_1817" /></a> </p>
 
