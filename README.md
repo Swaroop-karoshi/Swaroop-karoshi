@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swaroop-karoshi&show_icons=true&theme=onedark&locale=en" alt="swaroop-karoshi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swaroop-karoshi&theme=dark" alt="swaroop-karoshi" /></p>
+[![LeetCode Badge]](https://leetcode.com/u/iam_swaroop/)
